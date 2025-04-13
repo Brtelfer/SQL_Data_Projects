@@ -20,23 +20,23 @@ This project uses real job posting data to provide data-driven insights for care
 ## The Analysis
 The project consists of four key analyses:
 
-1. **Top Remote Jobs Analysis**:
+1. **[Top Remote Jobs Analysis:](https://github.com/Brtelfer/SQL_Data_Projects/blob/SQL_Project/project_sql/1_highest_paying_jobs.sql)**
    - Identifies highest-paying remote positions for data professionals
    - Shows company names and salary information
 
-2. **Skills for Top-Paying Jobs**:
+2. **[Skills for Top-Paying Jobs:](https://github.com/Brtelfer/SQL_Data_Projects/blob/SQL_Project/project_sql/2_highest_paying_skills.sql)**
    - Reveals which skills are required for the 10 highest-paying remote jobs
    - Helps professionals target skill development
 
-3. **Most Demanded Skills**:
+3. **[Most Demanded Skills:](https://github.com/Brtelfer/SQL_Data_Projects/blob/SQL_Project/project_sql/3_high_demand_skills.sql)**
    - Analyzes which skills appear most frequently in Data Analyst job postings
    - Shows the top 5 most requested skills
 
-4. **Salary-Skill Correlations**:
+4. **[Salary-Skill Correlations:](https://github.com/Brtelfer/SQL_Data_Projects/blob/SQL_Project/project_sql/4_skill_by_salary.sql)**
    - Breaks down skills by salary ranges
    - Identifies which skills cluster in higher salary brackets
 
-5. **Optimal Skills Analysis**:
+5. **[Optimal Skills Analysis:](https://github.com/Brtelfer/SQL_Data_Projects/blob/SQL_Project/project_sql/5_optimal_skills.sql)**
    - Combines salary and demand metrics
    - Scores and tiers skills based on market value
 
