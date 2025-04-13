@@ -15,7 +15,6 @@ This project uses real job posting data to provide data-driven insights for care
 ## Tools I Used
 - **PostgreSQL**: For database management and complex queries
 - **SQL**: For data extraction and analysis
-- **Data Visualization**: (Recommended next step) Tools like Tableau or Power BI
 - **Git/GitHub**: For version control and sharing the analysis
 
 ## The Analysis
